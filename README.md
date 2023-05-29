@@ -1,3 +1,12 @@
+# Demo Project
+sirac-alakus-recipe-app.netlify.app
+# Packages that need to be installed
+  **npm i framer-motion**
+	**npm i react-icons**
+	**npm i react-router-dom** 
+	**npm i -g styled-components** 
+	**npm install @splidejs/react-splide**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
