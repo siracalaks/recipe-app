@@ -1,6 +1,6 @@
 # Demo Project
-sirac-alakus-recipe-app.netlify.app
-# Packages that need to be installed
+[sirac-alakus-recipe-app.netlify.app
+](https://sirac-alakus-recipe-app.netlify.app/)# Packages that need to be installed
 ### `npm i framer-motion`
 ### `npm i react-icons`
 ### `npm i react-router-dom`
